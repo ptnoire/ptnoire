@@ -2,6 +2,7 @@
 - - Frontend -> Full Stack (Soon)
 
 JavaScript / Node / TypeScript / Parcel / Babel / HTML & CSS / Python
+
 I would love to help with your open-source projects, please hit me up!
 
 I have a lot of projects that are ongoing and in progress, I am a avid supporter of the FGC
