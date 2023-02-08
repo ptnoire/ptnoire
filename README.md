@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ptnoire PT Anderson.
 - - Frontend -> Full Stack (Soon)
 
-JavaScript / Node / TypeScript / Parcel / Babel / HTML & CSS / Python
+JavaScript / SQL / Node / TypeScript / Parcel / Babel / HTML & CSS / Python
 
 I would love to help with your open-source projects, please hit me up!
 
