@@ -1,8 +1,8 @@
 
-# <img style="display: inline" src="https://ptnoire.github.io/CSS-Image-Slideshow-Test/ptaLogoDarkMode.png" alt="P.T. Anderson" /> Full Stack Developer
+# <img align="center" style="display: inline" src="https://ptnoire.github.io/CSS-Image-Slideshow-Test/ptaLogoDarkMode.png" alt="P.T. Anderson" /> // Your Full Stack Developer
 
 
-<div style="display: inline">
+<div align="center" style="display: inline;">
 <img src="https://pt-anderson.netlify.app/htmllogo.e0b81485.png" alt="js" height="71px"/>
 <img src="https://pt-anderson.netlify.app/csslogo.e9c6a08a.png" alt="js" height="71px"/>
 <img src="https://pt-anderson.netlify.app/babellogo.f21ef3b1.png" alt="babel" height=71px />
