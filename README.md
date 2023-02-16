@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ptnoire PT Anderson.
 - - Frontend -> Full Stack (Soon)
 
-<img src="https://pt-anderson.netlify.app/csslogo.e9c6a08a.png" alt="js" />
+<img style="width: 40; height: auto;" src="https://pt-anderson.netlify.app/csslogo.e9c6a08a.png" alt="js" />
 
 I would love to help with your open-source projects, please hit me up!
 
