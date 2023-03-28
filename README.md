@@ -3,12 +3,17 @@
 
 
 <div align="center" style="display: inline;">
-<img src="https://pt-anderson.netlify.app/htmllogo.e0b81485.png" alt="js" height="71px"/>
-<img src="https://pt-anderson.netlify.app/csslogo.e9c6a08a.png" alt="js" height="71px"/>
-<img src="https://pt-anderson.netlify.app/babellogo.f21ef3b1.png" alt="babel" height=71px />
-<img src="https://pt-anderson.netlify.app/jslogo.b859b023.png" alt="js" height="71px"/>
-<img src="https://pt-anderson.netlify.app/nodelogo.fd352533.png" alt="node" height=71px />
-<img src="https://pt-anderson.netlify.app/mysqllogo.76b64807.png" alt="sql" height=71px />
+<img src="https://pt-anderson.netlify.app/htmllogo.e0b81485.png" alt="html" height="71px"/> 
+<img src="https://pt-anderson.netlify.app/csslogo.e9c6a08a.png" alt="css" height="71px"/> 
+<img src="https://pt-anderson.netlify.app/jslogo.b859b023.png" alt="js" height="71px"/> 
+<img src="https://pt-anderson.netlify.app/tslogo.1c2bf00c.svg" alt="ts" height="71px" /> 
+<img src="https://pt-anderson.netlify.app/vuelogo.8f443060.svg" alt="vue" height="71px" /> 
+<img src="https://pt-anderson.netlify.app/babellogo.f21ef3b1.png" alt="babel" height=71px />  
+<img src="https://pt-anderson.netlify.app/nodelogo.fd352533.png" alt="node" height=71px />  
+<img src="https://pt-anderson.netlify.app/mysqllogo.76b64807.png" alt="sql" height=71px />  
+<img src="https://pt-anderson.netlify.app/gitlogo.db923fa2.png" alt="git" height=71px />  
+<img src="https://pt-anderson.netlify.app/mongodblogo.ad3c0550.svg" alt="mongo" height=71px /> 
+<img src="https://pt-anderson.netlify.app/pythonlogo.7d476b6c.png" alt="python" height=71px /> 
 </div>
 
 Hey 👋! If you're interested in helping me with any of my many projects or need a hand with yours, shoot me a line on twitter @NoirePeter
