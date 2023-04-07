@@ -21,6 +21,7 @@ Hey 👋! If you're interested in helping me with any of my many projects or nee
 If your FGC is in need of a website, discord/twitch bot or tournamnent/ranking database, I offer these services for free, please get in touch. I will always have time to help your scene grow.
 
 Current Projects:
+- **Backend Login System for OKSL.ca**
 - **Express + MongoDB Interjection to PAYD**
 - **Discord Post/Update API** - In progress
 - **OKSL_23** : Commercial site for the Okanagan's #1 Source for Fighting Games!
