@@ -28,5 +28,6 @@ Current Projects:
 - **Judy's Jimmies - Commercial Website** : In site management mode.
 - **TypeScript AI : Connect 4** : A requested project, finished.
 - **PAYD** : A simple bill tracker for the people, no ads, no nonsense.
+- - CONVERT TO TYPESCRIPT + PAYD APP WITH OAUTH2 AND DB.
 - **mySQL** + Node.JS Custom Library (Importable Modules) (Working title: NodeSql?
 
