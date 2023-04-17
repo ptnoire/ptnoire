@@ -18,7 +18,7 @@
 
 Hey 👋! If you're interested in helping me with any of my many projects or need a hand with yours, shoot me a line on twitter @NoirePeter
 
-If your FGC is in need of a website, discord/twitch bot or tournamnent/ranking database, I offer these services for free, please get in touch. I will always have time to help your scene grow.
+If your FGC is in need of a website, discord/twitch bot or tournament/ranking database, I offer these services for free, please get in touch. I will always have time to help your scene grow.
 
 Current Projects:
 - **Backend Login System for OKSL.ca**
