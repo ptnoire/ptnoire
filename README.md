@@ -22,12 +22,12 @@ If your FGC is in need of a website, discord/twitch bot or tournament/ranking da
 
 Current Projects:
 - **Backend Login System for OKSL.ca**
-- **Express + MongoDB Interjection to PAYD**
-- **Discord Post/Update API** - In progress
+- ~**Express + MongoDB Interjection to PAYD**~
+- ~**Discord Post/Update API** - In progress~
 - **OKSL_23** : Commercial site for the Okanagan's #1 Source for Fighting Games!
-- **Judy's Jimmies - Commercial Website** : In site management mode.
-- **TypeScript AI : Connect 4** : A requested project, finished.
-- **PAYD** : A simple bill tracker for the people, no ads, no nonsense.
-- - CONVERT TO TYPESCRIPT + PAYD APP WITH OAUTH2 AND DB.
-- **mySQL** + Node.JS Custom Library (Importable Modules) (Working title: NodeSql?
+- ~**Judy's Jimmies - Commercial Website** : In site management mode.~
+- ~**TypeScript AI : Connect 4** : A requested project, finished.~
+- ~**PAYD** : A simple bill tracker for the people, no ads, no nonsense.~
+- ~- CONVERT TO TYPESCRIPT + PAYD APP WITH OAUTH2 AND DB.~
+- ~**mySQL** + Node.JS Custom Library (Importable Modules) (Working title: NodeSql?~
 
