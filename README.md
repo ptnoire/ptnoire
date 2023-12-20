@@ -20,6 +20,8 @@ Hey 👋! If you're interested in helping me with any of my many projects or nee
 
 If your FGC is in need of a website, discord/twitch bot or tournament/ranking database, I offer these services for free, please get in touch. I will always have time to help your scene grow.
 
+1 Year Anniversary since I first pushed to github. Woot. I work on projects mostly off of git now but still fond of the site and how it felt when I was first getting started. Cheers, Merry Christmas.
+
 Current Projects:
 - **Backend Login System for OKSL.ca**
 - ~**Express + MongoDB Interjection to PAYD**~
