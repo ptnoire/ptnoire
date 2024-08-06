@@ -1,5 +1,5 @@
 
-# <img align="center" style="display: inline" src="https://ptnoire.github.io/CSS-Image-Slideshow-Test/ptaLogoDarkMode.png" alt="P.T. Anderson" /> // Your Full Stack Developer
+Your Full Stack Developer
 
 
 <div align="center" style="display: inline;">
